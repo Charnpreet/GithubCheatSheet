@@ -2,20 +2,18 @@
 
 Git hub commands
 
-•  #  git clone “remote url”
-•   # git status
-•   # git add .                                                                                  // add all files
-•   # git commit -m “description of changes”                             //  commiting changes we made with discription
-•   # git push origin master                                                     // or any other branch name
-•    # git pull                                                                           // to pull changes from github
-•    # git branch                                                                  // to list all the branches
-•    # git branch branchName                                          // to create new branch
-•    # git checkout branchName                                     // to switch to particular branch
-•   #  git branch brancName -D                                    // to delete particular branch
-•   #  :q                                                                         // to git out Vim
-.    #  git push --set-upstream origin  branchName                   //  push to branch other than master
-
-
+1.  git clone “remote url”
+2.  git status
+3.  git add .                                                                                  // add all files
+4.  git commit -m “description of changes”                             //  commiting changes we made with discription
+5.  git push origin master                                                     // or any other branch name
+6.   git pull                                                                           // to pull changes from github
+7.  git branch                                                                  // to list all the branches
+8.   git branch branchName                                          // to create new branch
+9.  git checkout branchName                                     // to switch to particular branch
+10.  git branch brancName -D                                    // to delete particular branch
+11.  :q                                                                         // to git out Vim
+12.   git push --set-upstream origin  branchName                   //  push to branch other than maste234
 
 Uploading existing project to git hub
 First change to directory you want to upload.
