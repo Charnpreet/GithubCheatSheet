@@ -2,17 +2,19 @@
 
 Git hub commands
 
-•    git clone “remote url”
-•    git status
-•    git add .                                                                                  // add all files
-•    git commit -m “description of changes”                             //  commiting changes we made with discription
-•    git push origin master                                                     // or any other branch name
-•    git pull                                                                           // to pull changes from github
-•    git branch                                                                  // to list all the branches
-•    git branch branchName                                          // to create new branch
-•    git checkout branchName                                     // to switch to particular branch
-•    git branch brancName -D                                    // to delete particular branch
-•    :q // to git out Vim
+•  #  git clone “remote url”
+•   # git status
+•   # git add .                                                                                  // add all files
+•   # git commit -m “description of changes”                             //  commiting changes we made with discription
+•   # git push origin master                                                     // or any other branch name
+•    # git pull                                                                           // to pull changes from github
+•    # git branch                                                                  // to list all the branches
+•    # git branch branchName                                          // to create new branch
+•    # git checkout branchName                                     // to switch to particular branch
+•   #  git branch brancName -D                                    // to delete particular branch
+•   #  :q                                                                         // to git out Vim
+.    #  git push --set-upstream origin  branchName                   //  push to branch other than master
+
 
 
 Uploading existing project to git hub
